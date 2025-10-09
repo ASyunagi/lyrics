@@ -3,6 +3,18 @@
 	<head>
 		<metadata>
 			<ttm:agent type="person" xml:id="v1" />
+			<amll:meta key="musicName" value="缉速狂飙" />
+			<amll:meta key="artists" value="塞壬唱片-MSR" />
+			<amll:meta key="artists" value="Obadiah Brown-Beach" />
+			<amll:meta key="artists" value="陈雪燃" />
+			<amll:meta key="album" value="音律联觉-愚夜密函原声EP" />
+			<amll:meta key="ncmMusicId" value="2042559590" />
+			<amll:meta key="qqMusicId" value="408542588" />
+			<amll:meta key="spotifyId" value="5mWrIAR0TGY7RCX9mtpllo" />
+			<amll:meta key="appleMusicId" value="1687938603" />
+			<amll:meta key="isrc" value="TWU712301568" />
+			<amll:meta key="ttmlAuthorGithub" value="174598250" />
+			<amll:meta key="ttmlAuthorGithubLogin" value="ASyunagi" />
 		</metadata>
 	</head>
 	<body dur="03:36.605">
