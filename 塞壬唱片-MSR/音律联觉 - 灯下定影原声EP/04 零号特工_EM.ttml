@@ -18,19 +18,19 @@
 		</metadata>
 	</head>
 	<body dur="03:26.219">
-		<div begin="00:30.258" end="03:26.219">
-			<p begin="00:30.258" end="00:31.633" ttm:agent="v1" itunes:key="L1"><span begin="00:30.258"
-					end="00:30.475">I </span><span begin="00:30.476" end="00:30.673">can
-				</span><span begin="00:30.673" end="00:30.862">cloak </span><span begin="00:30.863"
-					end="00:31.032">a </span><span begin="00:31.032"
-					end="00:31.633">tiger</span><span ttm:role="x-translation"
-					xml:lang="zh-CN">我能为猛虎披上隐形衣</span></p>
+		<div begin="00:30.068" end="03:26.219">
+			<p begin="00:30.068" end="00:31.767" ttm:agent="v1" itunes:key="L1"><span begin="00:30.068"
+					end="00:30.234">Ah, </span><span begin="00:30.234" end="00:30.413">you
+				</span><span begin="00:30.413" end="00:30.640">can </span><span begin="00:30.640"
+					end="00:30.849">cloak </span><span begin="00:30.849" end="00:31.104">a
+				</span><span begin="00:31.104" end="00:31.767">tiger</span><span
+					ttm:role="x-translation" xml:lang="zh-CN">啊，纵然你能让猛虎潜行影迹</span></p>
 			<p begin="00:31.996" end="00:33.401" ttm:agent="v1" itunes:key="L2"><span begin="00:31.996"
-					end="00:32.240">Tho </span><span begin="00:32.241" end="00:32.454">it
+					end="00:32.240">Though </span><span begin="00:32.241" end="00:32.454">it
 				</span><span begin="00:32.454" end="00:32.670">still </span><span begin="00:32.670"
 					end="00:32.867">got </span><span begin="00:32.868"
 					end="00:33.401">teeth</span><span ttm:role="x-translation"
-					xml:lang="zh-CN">纵然它利齿犹存 寒光未敛</span></p>
+					xml:lang="zh-CN">却难掩它利齿 噬人寒芒</span></p>
 			<p begin="00:33.764" end="00:35.134" ttm:agent="v1" itunes:key="L3"><span begin="00:33.764"
 					end="00:33.993">Just </span><span begin="00:33.993" end="00:34.217">don't
 				</span><span begin="00:34.218" end="00:34.389">get </span><span begin="00:34.389"
@@ -89,10 +89,9 @@
 			<p begin="00:49.248" end="00:51.024" ttm:agent="v1" itunes:key="L12"><span begin="00:49.248"
 					end="00:49.446">We </span><span begin="00:49.446" end="00:49.640">got
 				</span><span begin="00:49.640" end="00:49.895">a </span><span begin="00:49.895"
-					end="00:50.122">side </span><span begin="00:50.122" end="00:50.336">arm
-				</span><span begin="00:50.336" end="00:50.568">and </span><span begin="00:50.568"
-					end="00:51.024">rail</span><span ttm:role="x-translation" xml:lang="zh-CN">佩好配枪
-					整装待命</span></p>
+					end="00:50.336">sidearm </span><span begin="00:50.336" end="00:50.568">and
+				</span><span begin="00:50.568" end="00:51.024">rail</span><span ttm:role="x-translation"
+					xml:lang="zh-CN">佩好配枪，整装待命</span></p>
 			<p begin="00:51.229" end="00:52.906" ttm:agent="v1" itunes:key="L13"><span begin="00:51.229"
 					end="00:51.569">Our </span><span begin="00:51.569" end="00:52.240">Nemesis
 				</span><span begin="00:52.240" end="00:52.906">breaking</span><span
@@ -108,34 +107,33 @@
 				</span><span begin="00:55.508" end="00:55.743">the </span><span begin="00:55.743"
 					end="00:56.140">shots</span><span ttm:role="x-translation"
 					xml:lang="zh-CN">由我们掌控全局</span></p>
-			<p begin="00:56.237" end="00:59.311" ttm:agent="v1" itunes:key="L16"><span begin="00:56.237"
+			<p begin="00:56.237" end="01:00.105" ttm:agent="v1" itunes:key="L16"><span begin="00:56.237"
 					end="00:56.614">And </span><span begin="00:56.614" end="00:56.852">we're
 				</span><span begin="00:56.852" end="00:57.168">calling </span><span begin="00:57.168"
-					end="00:57.580">them </span><span begin="00:57.580"
-					end="00:59.311">soon</span><span ttm:role="x-translation"
+					end="00:57.580">them </span><span begin="00:57.580" end="00:59.285">soon,
+				</span><span begin="00:59.285" end="01:00.105">yeah</span><span ttm:role="x-translation"
 					xml:lang="zh-CN">决胜就在顷刻</span></p>
-			<p begin="00:59.311" end="01:03.491" ttm:agent="v1" itunes:key="L17"><span begin="00:59.311"
-					end="01:00.244">Yeah</span><span begin="01:00.634" end="01:00.814">we're
-				</span><span begin="01:00.814" end="01:01.118">calling </span><span begin="01:01.118"
-					end="01:01.535">them </span><span begin="01:01.535"
+			<p begin="01:00.634" end="01:03.491" ttm:agent="v1" itunes:key="L17"><span begin="01:00.634"
+					end="01:00.814">We're </span><span begin="01:00.814" end="01:01.118">calling
+				</span><span begin="01:01.118" end="01:01.535">them </span><span begin="01:01.535"
 					end="01:03.491">soon</span><span ttm:role="x-translation"
 					xml:lang="zh-CN">决胜就在顷刻</span></p>
 			<p begin="01:03.689" end="01:05.993" ttm:agent="v1" itunes:key="L18"><span begin="01:03.689"
 					end="01:03.893">We're </span><span begin="01:03.893" end="01:04.376">calling
 				</span><span begin="01:04.376" end="01:04.580">them </span><span begin="01:04.581"
-					end="01:04.896">so </span><span begin="01:04.897" end="01:05.374">so
+					end="01:04.896">so, </span><span begin="01:04.897" end="01:05.374">so
 				</span><span begin="01:05.374" end="01:05.993">soon</span><span ttm:role="x-translation"
 					xml:lang="zh-CN">转瞬即见分晓</span></p>
 			<p begin="01:06.500" end="01:07.722" ttm:agent="v1" itunes:key="L19"><span begin="01:06.500"
-					end="01:06.936">So </span><span begin="01:06.937" end="01:07.323">so
+					end="01:06.936">So, </span><span begin="01:06.937" end="01:07.323">so
 				</span><span begin="01:07.323" end="01:07.722">soon</span><span ttm:role="x-translation"
 					xml:lang="zh-CN">转瞬之间</span></p>
 			<p begin="01:08.076" end="01:10.418" ttm:agent="v1" itunes:key="L20"><span begin="01:08.076"
-					end="01:08.240">Yeah </span><span begin="01:08.240" end="01:08.383">we're
+					end="01:08.240">Yeah, </span><span begin="01:08.240" end="01:08.383">we're
 				</span><span begin="01:08.383" end="01:08.480">calling </span><span begin="01:08.480"
-					end="01:09.033">them </span><span begin="01:09.033" end="01:09.821">soon
+					end="01:09.033">them </span><span begin="01:09.033" end="01:09.821">soon,
 				</span><span begin="01:09.821" end="01:10.418">baby</span><span ttm:role="x-translation"
-					xml:lang="zh-CN">顷刻定局 宝贝</span></p>
+					xml:lang="zh-CN">顷刻定局，宝贝</span></p>
 			<p begin="01:11.791" end="01:14.622" ttm:agent="v1" itunes:key="L21"><span begin="01:11.791"
 					end="01:12.191">Knocking </span><span begin="01:12.191" end="01:12.403">out
 				</span><span begin="01:12.403" end="01:12.591">the </span><span begin="01:12.591"
@@ -150,10 +148,11 @@
 					end="01:15.756">to </span><span begin="01:15.756"
 					end="01:16.173">run</span><span ttm:role="x-translation"
 					xml:lang="zh-CN">任他妄图逃窜</span></p>
-			<p begin="01:16.173" end="01:18.288" ttm:agent="v1" itunes:key="L23"><span begin="01:16.173"
+			<p begin="01:16.173" end="01:18.629" ttm:agent="v1" itunes:key="L23"><span begin="01:16.173"
 					end="01:16.556">He </span><span begin="01:16.556" end="01:16.705">ain't
 				</span><span begin="01:16.705" end="01:17.058">rolling </span><span begin="01:17.058"
-					end="01:18.288">anywhere</span><span ttm:role="x-translation"
+					end="01:18.391">anywhere, </span><span begin="01:18.391"
+					end="01:18.629">so</span><span ttm:role="x-translation"
 					xml:lang="zh-CN">终将寸步难行</span></p>
 			<p begin="01:18.808" end="01:22.817" ttm:agent="v1" itunes:key="L24"><span begin="01:18.808"
 					end="01:20.062">All </span><span begin="01:20.062" end="01:20.270">you
@@ -166,12 +165,13 @@
 				</span><span begin="01:23.556" end="01:24.709">phenomenal </span><span begin="01:24.709"
 					end="01:26.168">agent</span><span ttm:role="x-translation"
 					xml:lang="zh-CN">我乃零号王牌</span></p>
-			<p begin="01:27.057" end="01:30.880" ttm:agent="v1" itunes:key="L26"><span begin="01:27.057"
+			<p begin="01:27.057" end="01:32.493" ttm:agent="v1" itunes:key="L26"><span begin="01:27.057"
 					end="01:27.246">I </span><span begin="01:27.246" end="01:28.749">run
 				</span><span begin="01:28.749" end="01:28.954">the </span><span begin="01:28.954"
-					end="01:30.880">show</span><span ttm:role="x-translation"
+					end="01:30.880">show, </span><span begin="01:32.029"
+					end="01:32.493">hey</span><span ttm:role="x-translation"
 					xml:lang="zh-CN">全局由我主宰</span></p>
-			<p begin="01:33.684" end="01:36.751" ttm:agent="v1" itunes:key="L27"><span begin="01:33.684"
+			<p begin="01:33.623" end="01:36.751" ttm:agent="v1" itunes:key="L27"><span begin="01:33.623"
 					end="01:34.089">All </span><span begin="01:34.089" end="01:34.309">you
 				</span><span begin="01:34.309" end="01:35.854">need </span><span begin="01:35.854"
 					end="01:36.043">to </span><span begin="01:36.043"
@@ -227,8 +227,7 @@
 					xml:lang="zh-CN">我们是敞开的门扉</span></p>
 			<p begin="02:13.515" end="02:15.113" ttm:agent="v1" itunes:key="L37"><span begin="02:13.515"
 					end="02:13.725">We're </span><span begin="02:13.725" end="02:13.930">a
-				</span><span begin="02:13.930" end="02:14.144">two </span><span begin="02:14.144"
-					end="02:14.396">way </span><span begin="02:14.396"
+				</span><span begin="02:13.930" end="02:14.396">two-way </span><span begin="02:14.396"
 					end="02:15.113">street</span><span ttm:role="x-translation"
 					xml:lang="zh-CN">是双向的路径</span></p>
 			<p begin="02:15.284" end="02:16.667" ttm:agent="v1" itunes:key="L38"><span begin="02:15.284"
@@ -281,8 +280,8 @@
 				</span><span begin="02:30.129" end="02:30.559">little </span><span begin="02:30.559"
 					end="02:31.022">birdie </span><span begin="02:31.022" end="02:31.219">run
 				</span><span begin="02:31.219" end="02:31.856">away </span><span begin="02:31.856"
-					end="02:32.279">hey</span><span ttm:role="x-translation" xml:lang="zh-CN">快逃吧
-					小小鸟 速速逃离</span></p>
+					end="02:32.279">hey</span><span ttm:role="x-translation"
+					xml:lang="zh-CN">快逃吧，小小鸟，速速逃离</span></p>
 			<p begin="02:32.153" end="02:35.600" ttm:agent="v1" itunes:key="L47"><span begin="02:32.153"
 					end="02:32.341">Were </span><span begin="02:32.341" end="02:32.776">dawning
 				</span><span begin="02:32.776" end="02:32.989">at </span><span begin="02:32.989"
@@ -292,8 +291,9 @@
 				</span><span begin="02:34.712" end="02:35.600">dream</span><span
 					ttm:role="x-translation" xml:lang="zh-CN">在杀手梦醒时分破晓</span></p>
 			<p begin="02:35.600" end="02:37.440" ttm:agent="v1" itunes:key="L48"><span begin="02:35.600"
-					end="02:36.330">Listen </span><span begin="02:36.330" end="02:36.974">inbetween
-				</span><span begin="02:36.974" end="02:37.158">the </span><span begin="02:37.158"
+					end="02:36.254">Listen </span><span begin="02:36.254" end="02:36.486">in
+				</span><span begin="02:36.486" end="02:36.974">between </span><span begin="02:36.974"
+					end="02:37.158">the </span><span begin="02:37.158"
 					end="02:37.440">lines</span><span ttm:role="x-translation"
 					xml:lang="zh-CN">细听字里行间的玄机</span></p>
 			<p begin="02:37.440" end="02:39.434" ttm:agent="v1" itunes:key="L49"><span begin="02:37.440"
@@ -333,8 +333,8 @@
 				</span><span begin="03:02.354" end="03:02.597">you'll </span><span begin="03:02.597"
 					end="03:02.860">be </span><span begin="03:02.860" end="03:03.415">working
 				</span><span begin="03:03.415" end="03:03.613">for </span><span begin="03:03.613"
-					end="03:04.855">me</span><span ttm:role="x-translation" xml:lang="zh-CN">终有一日
-					你将臣服于我</span></p>
+					end="03:04.855">me</span><span ttm:role="x-translation"
+					xml:lang="zh-CN">终有一日，你将臣服于我</span></p>
 			<p begin="03:05.281" end="03:06.419" ttm:agent="v1" itunes:key="L56"><span begin="03:05.281"
 					end="03:05.443">For </span><span begin="03:05.443"
 					end="03:06.419">me</span><span ttm:role="x-translation"
@@ -343,17 +343,18 @@
 					end="03:06.953">Working </span><span begin="03:06.953" end="03:07.269">for
 				</span><span begin="03:07.269" end="03:10.029">me</span><span ttm:role="x-translation"
 					xml:lang="zh-CN">臣服于我</span></p>
-			<p begin="03:13.133" end="03:14.609" ttm:agent="v1" itunes:key="L58"><span begin="03:13.133"
+			<p begin="03:13.133" end="03:15.471" ttm:agent="v1" itunes:key="L58"><span begin="03:13.133"
 					end="03:13.374">You'll </span><span begin="03:13.374" end="03:13.573">be
 				</span><span begin="03:13.573" end="03:13.966">working </span><span begin="03:13.966"
-					end="03:14.170">for </span><span begin="03:14.170"
-					end="03:14.609">me</span><span ttm:role="x-translation"
+					end="03:14.170">for </span><span begin="03:14.170" end="03:14.654">me,
+				</span><span begin="03:14.654" end="03:15.471">yeah</span><span ttm:role="x-translation"
 					xml:lang="zh-CN">你将为我效力</span></p>
-			<p begin="03:14.609" end="03:20.162" ttm:agent="v1" itunes:key="L59"><span begin="03:14.609"
-					end="03:15.701">Yeah </span><span begin="03:17.474" end="03:18.793">woo
-				</span><span begin="03:18.793" end="03:19.402">anyway </span><span begin="03:19.402"
-					end="03:20.162">babe</span><span ttm:role="x-translation" xml:lang="zh-CN">不管怎样
-					宝贝</span></p>
+			<p begin="03:17.474" end="03:20.162" ttm:agent="v1" itunes:key="L59"><span begin="03:17.474"
+					end="03:18.692">Ooh, </span><span begin="03:18.692" end="03:18.817">yeah,
+				</span><span begin="03:18.817" end="03:18.924">you </span><span begin="03:18.924"
+					end="03:19.338">will </span><span begin="03:19.338"
+					end="03:20.162">baby</span><span ttm:role="x-translation"
+					xml:lang="zh-CN">不管怎样，宝贝</span></p>
 			<p begin="03:20.496" end="03:22.073" ttm:agent="v1" itunes:key="L60"><span begin="03:20.496"
 					end="03:20.966">Working </span><span begin="03:20.966" end="03:21.212">for
 				</span><span begin="03:21.212" end="03:22.073">me</span><span ttm:role="x-translation"
