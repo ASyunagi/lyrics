@@ -4,6 +4,7 @@
       <ttm:agent type="person" xml:id="v1"/>
       <amll:meta key="musicName" value="花と蜜"/>
       <amll:meta key="artists" value="幸祜"/>
+      <amll:meta key="artists" value="KOKO"/>
       <amll:meta key="album" value="prayer"/>
       <amll:meta key="ncmMusicId" value="1931658520"/>
       <amll:meta key="qqMusicId" value="349060950"/>
