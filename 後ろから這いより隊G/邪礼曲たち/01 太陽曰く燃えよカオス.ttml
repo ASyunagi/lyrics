@@ -5,22 +5,22 @@
       <amll:meta key="ttmlAuthorGithub" value="174598250"/>
       <amll:meta key="ttmlAuthorGithubLogin" value="ASyunagi"/>
       <amll:meta key="musicName" value="太陽曰く燃えよカオス"/>
-      <amll:meta key="artists" value="後ろから這いより隊G"/>
-      <amll:meta key="artists" value="阿澄佳奈 (あすみ かな)"/>
-      <amll:meta key="artists" value="松来未祐 (まつき みゆ)"/>
       <amll:meta key="artists" value="大坪由佳 (おおつぼ ゆか)"/>
-      <amll:meta key="album" value="邪神曲たち オリジナルサウンドトラック"/>
-      <amll:meta key="album" value="邪神曲たち"/>
-      <amll:meta key="album" value="太陽曰く燃えよカオス"/>
+      <amll:meta key="artists" value="後ろから這いより隊G"/>
+      <amll:meta key="artists" value="松来未祐 (まつき みゆ)"/>
+      <amll:meta key="artists" value="阿澄佳奈 (あすみ かな)"/>
       <amll:meta key="album" value="『這いよれ! ニャル子さん』ベストセレクションミニアルバム「邪選曲たち」"/>
-      <amll:meta key="ncmMusicId" value="807144"/>
+      <amll:meta key="album" value="太陽曰く燃えよカオス"/>
+      <amll:meta key="album" value="邪神曲たち"/>
+      <amll:meta key="album" value="邪神曲たち オリジナルサウンドトラック"/>
       <amll:meta key="ncmMusicId" value="426850650"/>
-      <amll:meta key="qqMusicId" value="277344065"/>
+      <amll:meta key="ncmMusicId" value="807144"/>
       <amll:meta key="qqMusicId" value="1839402"/>
-      <amll:meta key="spotifyId" value="6vgjRBFuHjvClvjIfAsWJA"/>
+      <amll:meta key="qqMusicId" value="277344065"/>
       <amll:meta key="spotifyId" value="3YxsRgCkaQR9ckhabbz0yz"/>
-      <amll:meta key="appleMusicId" value="547539347"/>
+      <amll:meta key="spotifyId" value="6vgjRBFuHjvClvjIfAsWJA"/>
       <amll:meta key="appleMusicId" value="525684553"/>
+      <amll:meta key="appleMusicId" value="547539347"/>
       <amll:meta key="isrc" value="JPB601217701"/>
     </metadata>
   </head>
