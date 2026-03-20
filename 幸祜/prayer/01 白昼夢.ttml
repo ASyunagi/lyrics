@@ -5,18 +5,18 @@
       <amll:meta key="ttmlAuthorGithub" value="174598250"/>
       <amll:meta key="ttmlAuthorGithubLogin" value="ASyunagi"/>
       <amll:meta key="musicName" value="白昼夢"/>
-      <amll:meta key="artists" value="幸祜"/>
       <amll:meta key="artists" value="KOKO"/>
+      <amll:meta key="artists" value="幸祜"/>
       <amll:meta key="album" value="prayer"/>
       <amll:meta key="album" value="白昼夢"/>
       <amll:meta key="ncmMusicId" value="1931659335"/>
       <amll:meta key="ncmMusicId" value="2040000034"/>
       <amll:meta key="qqMusicId" value="349060945"/>
       <amll:meta key="qqMusicId" value="406362123"/>
-      <amll:meta key="spotifyId" value="7sYZ6OMUVki0Mi1yxCgRgQ"/>
       <amll:meta key="spotifyId" value="6u7YabkqXPIzi3wzzEKmnG"/>
-      <amll:meta key="appleMusicId" value="1688671441"/>
+      <amll:meta key="spotifyId" value="7sYZ6OMUVki0Mi1yxCgRgQ"/>
       <amll:meta key="appleMusicId" value="1687479342"/>
+      <amll:meta key="appleMusicId" value="1688671441"/>
       <amll:meta key="isrc" value="JPZ922015558"/>
     </metadata>
   </head>
